@@ -8,7 +8,7 @@ Key features of the dataset include:
 Descriptions of events across folklore, paranormal activity, and cryptozoology.
 Rich narrative data scraped from The Paranormal Database.
 
-#Key Components
+# Key Components
 1. Dataset: Textual data scraped using BeautifulSoup from The Paranormal Database.
 2. Preprocessing: Duplicate removal, text standardization, punctuation, and stop-word removal. Feature extraction using TF-IDF and Bag of Words.
 3. Models:
