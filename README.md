@@ -26,5 +26,6 @@ Random Forest	    90.15%	   90%	    89.5%	   89.8%
 LightGBM	        90.26%	   90.3%	  90%	     90.1%
 
 5. Future Work
-A. Integrating Bag-of-Words with Transformers:Explore combining traditional bag-of-words features with transformer embeddings to enhance contextual representation and improve model interpretability. This hybrid approach aims to leverage both the simplicity of bag-of-words and the nuanced contextual understanding of transformers.
-B. Combining Bag-of-Words and TF-IDF for Deep Learning and ML Models: Investigate the synergistic use of bag-of-words and TF-IDF features as input for both deep learning and machine learning models. This integration seeks to capture complementary information from both global term frequencies and local text structure, improving classification performance across diverse models.
+   A. Integrating Bag-of-Words with Transformers:Explore combining traditional bag-of-words features with transformer embeddings to enhance contextual representation and improve model interpretability. This hybrid approach aims to leverage both the simplicity of bag-of-words and the nuanced contextual understanding of transformers.
+
+   B. Combining Bag-of-Words and TF-IDF for Deep Learning and ML Models: Investigate the synergistic use of bag-of-words and TF-IDF features as input for both deep learning and machine learning models. This integration seeks to capture complementary information from both global term frequencies and local text structure, improving classification performance across diverse models.
